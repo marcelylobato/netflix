@@ -32,7 +32,6 @@ function ligaSom(){
 
 
 // Mostrar o MODAL
-
 botao.addEventListener("click", mostrarModal)
 modal.addEventListener("click", esconderModal)
 
